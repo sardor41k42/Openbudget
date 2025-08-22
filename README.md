@@ -1,2 +1,0 @@
-# Openbudget
-Bot
