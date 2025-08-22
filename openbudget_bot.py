@@ -1,10 +1,10 @@
 import telebot
 from telebot import types
 
-TOKEN = "SIZNING_BOT_TOKEN"
+TOKEN = "7418760633:AAHISnthgJSM8I7nFmTCTCQWR2rew957e54"
 ADMIN_ID = 6689677013
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(7418760633:AAHISnthgJSM8I7nFmTCTCQWR2rew957e54)
 
 @bot.message_handler(commands=['start'])
 def start(message):
